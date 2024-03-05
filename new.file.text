@@ -1,1 +1,10 @@
+public class Test {
 
+      public static void main(string[] args) [
+              system.out.printIn("**********************************");
+              systen.out.printIn("Hello from GITHUB");
+              system.out.printIn("**********************************");
+
+      }
+
+  }    
